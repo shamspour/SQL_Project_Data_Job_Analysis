@@ -14,7 +14,7 @@ LEFT JOIN company_dim ON company_dim.company_id = job_postings_fact.company_id
 
 where
     job_title_short like '%Data Analyst%' AND
-    job_location = 'Germany' AND
+    job_location = 'Anywhere' AND
     salary_year_avg is NOT NULL
 
 ORDER BY
