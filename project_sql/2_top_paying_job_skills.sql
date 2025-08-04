@@ -10,7 +10,7 @@ WITH top_paying_job AS (
 
     where
         job_title_short like '%Data Analyst%' AND
-        job_location = 'Anywhere' AND
+        search_location = 'Germany' AND
         salary_year_avg is NOT NULL
 
     ORDER BY
