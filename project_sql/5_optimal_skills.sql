@@ -44,4 +44,4 @@ INNER JOIN  job_salary ON job_demand.skill_id = job_salary.skill_id
 
 ORDER BY demand_count DESC
 
-LIMIT 25
+

@@ -16,4 +16,4 @@ GROUP BY
 ORDER BY
     avg_salary DESC
 
-limit 5
+limit 25
