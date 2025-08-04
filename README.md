@@ -133,7 +133,8 @@ INNER JOIN skills_dim on skills_dim.skill_id = skills_job_dim.skill_id
 - **Python** follows closely, needed for 20 of these roles and highlighting its dominance in analytics and data engineering.
 - **Tableau** is the top visualization tool in demand, explicitly listed in 18 top-paying positions.
 
-![Top skills](project_sql\pic\2.png)
+![Top skills](project_sql\pic\output.png)
+
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ## 3. In-Demand Skills for Data Analysts
