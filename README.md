@@ -9,17 +9,19 @@ Driven by the need to strategically navigate the **data analyst job market**, th
 
 The data used in this analysis originates from the [SQL Data Analyst Course](https://www.youtube.com/watch?v=7mz73uXD9DA) by [lukebarousse](https://github.com/lukebarousse), encompassing detailed job postings with insights on job titles, salaries, locations, and essential skill requirements.
 
-Specifically, I set out to answer the following key questions through SQL queries:
+## Specifically, I set out to answer the following key questions through SQL queries:
 
-**What are the top-paying data analyst jobs located in Germany?**
+1. What are the top-paying data analyst jobs located in Germany?
 
-**What skills are required for these top-paying roles?**
+2. What skills are required for these top-paying roles?
 
-**What skills are most in demand across all data analyst positions?**
+3. What skills are most in demand across all data analyst positions?
 
-**Which skills correlate strongly with higher salaries?**
+4. Which skills correlate strongly with higher salaries?
 
-**What are the most optimal skills (high-demand and high-paying) to prioritize learning?**
+5. What are the most optimal skills (high-demand and high-paying) to prioritize learning?
+
+
 # Tools I Used
 # What I Learned
 # Conclusions
