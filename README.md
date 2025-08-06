@@ -70,7 +70,7 @@ Below is a brief summary of the most critical insights uncovered from analyzing 
 #### 🏢 Diverse Employers
 - **Bosch Group** frequently offers high-paying analytics roles, highlighting robust analytics demand in large industrial firms.
 
-- Notable companies include **Fraunhofer-Gesellschaft** (research institute) and fintech firm** Volt.io**.
+- Notable companies include **Fraunhofer-Gesellschaft** (research institute) and fintech firm **Volt.io**.
 
 - Both established industrial leaders and innovative tech startups actively compete for top analytics talent.
 
@@ -199,7 +199,6 @@ The results show that Some technical skills consistently stand out for commandin
 | Typescript  | 171,000           |
 | Atlassian   | 170,000           |
 | GitLab      | 170,000           |
-*Highest Paying Skills for Data Analysts (All Locations, 2023)*
 
 ## 5. Most Optimal Skills to Learn
 By combining insights from both demand and salary data, I identified the skills that are not only most sought-after but also offer the highest compensation. Focusing your learning on these areas provides the best strategic return for career growth in data analytics.
